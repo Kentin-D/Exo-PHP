@@ -1,0 +1,27 @@
+{
+    "blog_name": "Mon Blog Php",
+    "blog_description": "Description du blog",
+    "articles": [
+        
+        {"Title":"Lorem Ipsum dolor",
+        "content":"Donec congue elit sed augue fringilla, nec elementum lacus hendrerit. Cras a erat eu ipsum iaculis imperdiet. Sed dignissim turpis non dolor placerat, eu egestas neque suscipit.Donec cursus, orci non laoreet rutrum, nisl ante auctor lectus, quis rhoncus sapien sapien a nisi."
+        },
+        
+        {"Title":"Ipsum dolor lorem",
+        "content":"Donec congue elit sed augue fringilla, nec elementum lacus hendrerit. Cras a erat eu ipsum iaculis imperdiet. Sed dignissim turpis non dolor placerat, eu egestas neque suscipit.Donec cursus, orci non laoreet rutrum, nisl ante auctor lectus, quis rhoncus sapien sapien a nisi."
+        },
+        
+        {"Title":"Lorem Ipsum dolor",
+        "content":"Donec congue elit sed augue fringilla, nec elementum lacus hendrerit. Cras a erat eu ipsum iaculis imperdiet. Sed dignissim turpis non dolor placerat, eu egestas neque suscipit.Donec cursus, orci non laoreet rutrum, nisl ante auctor lectus, quis rhoncus sapien sapien a nisi."
+        },
+        
+        {"Title":"Ipsum dolor lorem",
+        "content":"Donec congue elit sed augue fringilla, nec elementum lacus hendrerit. Cras a erat eu ipsum iaculis imperdiet. Sed dignissim turpis non dolor placerat, eu egestas neque suscipit.Donec cursus, orci non laoreet rutrum, nisl ante auctor lectus, quis rhoncus sapien sapien a nisi."
+        }
+        
+    ],
+     
+     "username":"admin",
+     "password":"123"
+ 
+}
